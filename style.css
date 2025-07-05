@@ -10,3 +10,16 @@ h1 {
     text-align: center;
     padding: 15px 10px;
 }
+
+.pera {
+    width: 40%;
+    background: rebeccapurple;
+    color: #fff;
+    margin-top: 54px;
+    padding: 35px 10px;
+}
+
+.pera p {
+    font-size: 26px;
+    font-weight: 600;
+}

@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    display: block;
+    color: #fff;
+    background: #564;
+    text-align: center;
+    padding: 15px 10px;
+}
